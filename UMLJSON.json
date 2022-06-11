@@ -1,0 +1,36 @@
+{
+    "tiersVectorSize": 3,
+    "tiersVector": [
+        [
+            "WebTier",
+            2,
+            [
+                "Client",
+                "Server",
+                "Browser",
+                "NULL"
+            ]
+            
+        ],
+        [
+            "ApplicationTier",
+            1,
+            [
+                "PC_App",
+                "Cloud"
+            ]
+        ],
+        [
+            "DataTier",
+            3,
+            [
+                "Server",
+                "Browser",
+                "Database",
+                "NULL",
+                "Cloud",
+                "NULL"
+            ]
+        ]  
+    ]
+}
